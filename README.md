@@ -14,4 +14,4 @@ Example:
 For advanced options, consult `python3 l_tool.py -h`.
 
 ## Add a fractal
-The reproductions rules are defined in `lfractals.py`.
+The reproduction rules are defined in `lfractals.py`.
